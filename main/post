@@ -1,0 +1,114 @@
+https://www.dcz.gov.ua/PortalApi/api/vacancy/Search
+
+Host: www.dcz.gov.ua
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Accept: */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Referer: https://www.dcz.gov.ua/userSearch/vacancy?koatuuVal=101010510100000&koatuuLab=%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8F&regionID=101010500000000&activePage=2&itemsPerPage=15
+
+Content-Type: application/json;charset=UTF-8
+
+Origin: https://www.dcz.gov.ua
+
+Content-Length: 97
+
+Connection: keep-alive
+
+Cookie: UserPreference_OfficeSuite=MS; has_js=1
+
+{"StartRowIndex":15,"MaximumRows":"15","RegionID":"101010500000000","KoatuuID":"101010510100000"}
+
+POST: HTTP/1.1 200 OK
+
+Date: Sun, 28 Jul 2019 05:31:30 GMT
+
+Server: WebServer
+
+Cache-Control: no-cache
+
+Pragma: no-cache
+
+Content-Type: application/json; charset=utf-8
+
+Expires: -1
+
+Access-Control-Allow-Origin: https://www.dcz.gov.ua
+
+Access-Control-Allow-Credentials: true
+
+Content-Length: 12659
+
+X-XSS-Protection: 1; mode=block
+
+Vary: User-Agent
+
+Strict-Transport-Security: max-age=31536000
+
+Keep-Alive: timeout=10, max=200
+
+Connection: Keep-Alive
+
+
+***************************************************************************
+https://www.dcz.gov.ua/PortalApi/api/vacancy/Search
+
+Host: www.dcz.gov.ua
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Accept: */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Referer: https://www.dcz.gov.ua/userSearch/vacancy?koatuuVal=101010510100000&koatuuLab=%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8F&regionID=101010500000000&activePage=4&itemsPerPage=15
+
+Content-Type: application/json;charset=UTF-8
+
+Origin: https://www.dcz.gov.ua
+
+Content-Length: 97
+
+Connection: keep-alive
+
+Cookie: UserPreference_OfficeSuite=MS; has_js=1
+
+{"StartRowIndex":45,"MaximumRows":"15","RegionID":"101010500000000","KoatuuID":"101010510100000"}
+
+POST: HTTP/1.1 200 OK
+
+Date: Sun, 28 Jul 2019 05:31:56 GMT
+
+Server: WebServer
+
+Cache-Control: no-cache
+
+Pragma: no-cache
+
+Content-Type: application/json; charset=utf-8
+
+Expires: -1
+
+Access-Control-Allow-Origin: https://www.dcz.gov.ua
+
+Access-Control-Allow-Credentials: true
+
+Content-Length: 14321
+
+X-XSS-Protection: 1; mode=block
+
+Vary: User-Agent
+
+Strict-Transport-Security: max-age=31536000
+
+Keep-Alive: timeout=10, max=200
+
+Connection: Keep-Alive
+
